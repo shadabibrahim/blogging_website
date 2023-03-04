@@ -1,0 +1,43 @@
+.container-fluid {
+  width: 90%;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.me-2 {
+  width: 45% !important;
+  border-radius: 8px;
+}
+
+.blogs {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.addblogContainer {
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+}
+
+.input_title {
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  margin-bottom: 6px;
+}
+
+.input_descp {
+  border: none;
+}
+
+.button_save {
+  border-radius: 10px;
+}
+
+.card {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
